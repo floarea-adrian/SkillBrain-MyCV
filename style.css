@@ -1,0 +1,111 @@
+body {
+  background-color: #e5e5e5;
+  font-family: "Gilroy-Regular", sans-serif;
+}
+
+.container {
+  width: 595px;
+  height: 1200px;
+  background: #ffffff;
+  margin: auto;
+}
+
+.top-line-container {
+  position: absolute;
+  width: 595px;
+  height: 7px;
+  background: #005889;
+}
+
+/* title section document */
+
+.info-section {
+  padding-top: 36px;
+  padding-left: 48px;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 10px;
+  line-height: 28px;
+  color: black;
+}
+
+.info-section h1 {
+  height: 26px;
+  left: 8.07%;
+  right: 3.87%;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 26px;
+  line-height: 28px;
+  color: #101214;
+  margin-bottom: 0;
+}
+
+.title-name {
+  color: #005889;
+}
+
+.dot {
+  border-radius: 50%;
+  width: 8px;
+  height: 8px;
+  background: #101214;
+  display: inline-block;
+  margin: 0 4px 0 4px;
+}
+
+.contacts p {
+  margin: 0;
+  
+}
+
+.contacts {
+  margin-left: 15px;
+}
+
+.content-section {
+  margin-left: 48px;
+}
+
+h3 {
+  color: #005889;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 18px;
+  margin-bottom: 10px;
+  margin-top: 10px;
+}
+
+.Objective span {
+  margin-left: 35px;
+}
+
+.spacing-list {
+  margin-left: 15px;
+  font-weight: bold;
+}
+
+.same-color {
+  font-weight: 700;
+  color: #005889;
+}
+
+.same-position {
+  margin-left: 55px;
+  margin-top: -10px;
+  font-weight: 700;
+}
+
+.float {
+  float: left;
+  width: 33.33%;
+}
+
+.skills p {
+  margin: 0 0 0 55px;
+  font-weight: 100;
+}
+
+.skills ul {
+  margin-bottom: 0;
+}
